@@ -27,7 +27,7 @@ Bachelor of Technology
  Computer Science and Egineering                        
 Batch 2020-2024                  
 Lucknow | Uttar Pradesh     
-![Logo](https://www.dppsprg.com/DP%20Public%20School_files/logo-name.png)
+![image](https://github.com/P-Prateektiwari/P-Prateektiwari.github.io/assets/104573650/22582e16-0fc9-4ba1-8375-8b86956698f8)
 
 Intermediate                                                               
 Central Board of Secondary Education                 
